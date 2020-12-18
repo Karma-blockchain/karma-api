@@ -1,5 +1,5 @@
 {
-  "name": "@karmared/karma-api",
+  "name": "@karmared/api",
   "version": "0.0.1",
   "main": "build/index.js",
   "license": "MIT",
