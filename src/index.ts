@@ -49,3 +49,5 @@ export class Karma {
     }).then((res) => res.json());
   }
 }
+
+export default Karma;
